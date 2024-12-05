@@ -1,3 +1,2 @@
 Example
-![Example](/target_DRFqYvW@2x.png)
-git
+![Example](/5-th%20Dec/target_DRFqYvW@2x.png)
