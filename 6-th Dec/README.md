@@ -4,7 +4,7 @@ This project demonstrates a simple layout with `<hr>` elements styled to have ro
 
 ## Example Output
 
-![Example](./6-th%20Dec/target_k5MbLBx@2x.png)
+![Example](/6-th%20Dec/target_k5MbLBx@2x.png)
 
 ## Live Preview
 
