@@ -20,8 +20,8 @@ You can view the live demo of this project on CodePen:
 ## How to Use
 
 1. Clone this repository.
-2. Open the `index.html` file in your browser to see the styled layout.
-3. Modify the CSS in the `style.css` file to experiment with the design.
+2. Open the `6-th Dec.html` file in your browser to see the styled layout.
+3. Modify the CSS in file to experiment with the design.
 
 ---
 
