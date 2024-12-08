@@ -5,7 +5,7 @@
 ## Live Preview
 
 You can view the live demo of this project on CodePen:  
-[CodePen - Rounded Borders Example](https://codepen.io/Roman_762_/pen/LEPNByz)
+[CodePen - Square Borders Example](https://codepen.io/Roman_762_/pen/LEPNByz)
 
 ## How to Use
 
