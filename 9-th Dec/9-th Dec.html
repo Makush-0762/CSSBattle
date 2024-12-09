@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>9-th Dec</title>
+        <style>
+            body {
+                background: #f0dac1;
+                margin: 0;
+                height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .container {
+                width: 400px;
+                height: 300px;
+                position: relative;
+            }
+
+            hr {
+                border: none;
+                position: absolute;
+                width: 140px;
+                height: 180px;
+                background: #c3463d;
+            }
+
+            hr:first-child {
+                z-index: 1;
+                top: 22px;
+            }
+
+            hr:nth-child(2) {
+                top: 82px;
+                box-sizing: border-box;
+                width: 300px;
+                border-top: 90px solid #a52f28;
+                border-bottom: 90px solid #a52f28;
+                border-right: 80px solid transparent;
+                background: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <hr />
+            <hr />
+        </div>
+    </body>
+</html>
