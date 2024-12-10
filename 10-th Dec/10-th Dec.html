@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>10-th December</title>
+        <style>
+            body {
+                background: #fade8b;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 95vh;
+            }
+
+            .layers {
+                width: 400px;
+                height: 300px;
+                position: relative;
+            }
+
+            hr {
+                border: none;
+                position: absolute;
+            }
+
+            hr:nth-child(1),
+            hr:nth-child(3) {
+                top: 16px;
+                left: 130px;
+                width: 140px;
+                height: 100px;
+                background: #c3463d;
+                z-index: 5;
+            }
+
+            hr:nth-child(3) {
+                top: 168px;
+                z-index: 2;
+            }
+
+            hr:nth-child(2),
+            hr:nth-child(4) {
+                bottom: 52px;
+                left: 34px;
+                width: 140px;
+                height: 180px;
+                background: #5dbcf9;
+                z-index: 3;
+            }
+
+            hr:nth-child(2) {
+                z-index: 6;
+            }
+
+            hr:nth-child(4) {
+                left: 226px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="layers">
+            <hr />
+            <hr />
+            <hr />
+            <hr />
+        </div>
+    </body>
+</html>
