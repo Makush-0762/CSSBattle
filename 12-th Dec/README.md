@@ -1,4 +1,4 @@
-# Layers Example Project
+# Сlones Example Project
 
 This project demonstrates how to create clones of different sizes using HTML and CSS.
 ---

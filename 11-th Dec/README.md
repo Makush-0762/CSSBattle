@@ -1,4 +1,4 @@
-# Layers Example Project
+# CPU-model Example Project
 
 This project demonstrates how to create the CPU-model using HTML and CSS.
 
