@@ -16,7 +16,7 @@ If you have a better solution, please send me a message on Discord:
 **Username:** `makush_762`
 
 🔗 **View the live demo on CodePen:**  
-[CodePen - Layers Example](https://codepen.io/Roman_762_/pen/xbKELyz)
+[CodePen - Сlones Example](https://codepen.io/Roman_762_/pen/xbKELyz)
 
 ---
 
