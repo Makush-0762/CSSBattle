@@ -5,7 +5,7 @@ This project demonstrates how to create "Squere&Border" using HTML and CSS.
 
 ## 📸 Example Output
 
-![Example](/14-th%20Dec/target_dzX2fWe@2x.png)
+![Example](/14-th%20Dec/target_FC9aViQ@2x.png)
 
 ---
 
