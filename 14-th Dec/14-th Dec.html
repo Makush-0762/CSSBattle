@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>14-th December</title>
+        <style>
+            body {
+                height: 95vh;
+                background: #2f5a76;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .squareBorder {
+                transform: rotateZ(45deg);
+                width: 100px;
+                height: 100px;
+                will-change: transform;
+                border: 20px solid #2f5a76;
+                background: #f5bb60;
+                /*     background: transparent; */
+                box-shadow: 50px 0px 0px -20px #f5bb60,
+                    -50px 0px 0px -20px #f5bb60, 0px 50px 0px -20px #f5bb60,
+                    0px -50px 0px -20px #f5bb60;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="squareBorder"></div>
+    </body>
+</html>
