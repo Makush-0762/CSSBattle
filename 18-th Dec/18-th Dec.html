@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>18-th December</title>
+        <style>
+            body {
+                background: #fae29e;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 95vh;
+            }
+            .container {
+                width: 400px;
+                height: 300px;
+            }
+            .mirror {
+                margin: 80px 90px;
+                width: 0;
+                height: 0;
+                border-top: 70.5px solid transparent;
+                border-bottom: 70.5px solid transparent;
+                border-right: 86.5px solid #ea9a52;
+                -webkit-box-reflect: right 32px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container"><div class="mirror"></div></div>
+    </body>
+</html>
